@@ -1,7 +1,7 @@
 <p >
-  <img src="https://img.shields.io/github/last-commit/Clover96/Clover96">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Clover96.visitor-badge">
-  <img src="https://img.shields.io/github/followers/Clover96?label=Follow">
+  <img src="https://img.shields.io/github/last-commit/378406712/378406712">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=378406712.visitor-badge">
+  <img src="https://img.shields.io/github/followers/378406712?label=Follow">
   <img src="https://img.shields.io/twitter/follow/Clover96">
   <img src="./banner.png" />
 </p>
