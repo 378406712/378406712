@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/twitter/follow/Clover96">
   <img src="./banner.png" />
 </p>
-
+<p>2021 Happy New Year</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=378406712&show_icons=true&theme=radical&style=center)](https://github.com/anuraghazra/github-readme-stats)
 
